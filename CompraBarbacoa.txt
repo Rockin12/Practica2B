@@ -2,3 +2,4 @@ Pasteles
 Refrescos
 Hamburguesas
 Chorizo
+Patatas
